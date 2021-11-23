@@ -19,6 +19,8 @@
     - MacOS Catalina Version 10.15.7
     - PgAdmin4
     - Jupyter Notebook
+    - PostgreSQL 11.9
+    - Python 3.7.7
 
 ## Project Results:
 
