@@ -1,6 +1,6 @@
-# Movies-ETL
+# Movies_ETL
 
-## Movies-ETL Challenge Overview - 
+## Movies-ETL Project Overview - 
 *Create an automated pipeline that takes in new data from Wikipedia, Kaggle metadata, and MovieLens ratings.  The data is transformed into appropriate format and then loaded into a PostgreSQL database for further analysis.*
 
 1. Deliverable 1: Write an ETL function to read three data files
