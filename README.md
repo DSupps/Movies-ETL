@@ -2,6 +2,11 @@
 
 ![movie](https://user-images.githubusercontent.com/36451701/142959141-7ec06fcd-7e37-4605-99c1-44973b7d31b0.png)
 ## Movies ETL Project Overview:
+This project will create an automated pipeline that takes in new data, from Wikipedia data, Kaggle metadata and the MovieLens rating data.
+
+### Project Challenge:
+Using ETL to clean data files, parse the data that we extracted to make it look how we want. Merge parsed data sets and load the merged sets into pgadmin for further use.
+
 *Create an automated pipeline that takes in new data from Wikipedia, Kaggle metadata, and MovieLens ratings.  The data is transformed into appropriate format and then loaded into a PostgreSQL database for further analysis.*
 
 1. Deliverable 1: Write an ETL function to read three data files
