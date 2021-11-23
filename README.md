@@ -1,7 +1,6 @@
 # Movies_ETL
 
 ![movie](https://user-images.githubusercontent.com/36451701/142959141-7ec06fcd-7e37-4605-99c1-44973b7d31b0.png)
-
 ## Movies ETL Project Overview:
 *Create an automated pipeline that takes in new data from Wikipedia, Kaggle metadata, and MovieLens ratings.  The data is transformed into appropriate format and then loaded into a PostgreSQL database for further analysis.*
 
