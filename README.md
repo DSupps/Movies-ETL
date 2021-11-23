@@ -20,7 +20,7 @@
     - PgAdmin4
     - Jupyter Notebook
 
-## Movies-ETL Challenge Results
+## Project Results:
 
 ### Results: Write an ETL function to read three data files
 A function was created to take in Kaggle metadata, Wikipedia JSON, and MovieLens rating.csv. Each one was then set into their own seperate dataframe.
@@ -34,5 +34,5 @@ Transformed Kaggle metadata and MovieLens rating data, and then converted into s
 ### Create the Movie Database
 Added merged dataframes containig Kaggle and Wikipedia data with MoviesLens rating data to a SQL database where custom queries can be performed for analysis. 
 
-## Movie-ETL Summary
+## Project Summary
 Amazon Prime Video Development Team can now perform the "Predict the Popular Pictures" Hackathon as requested.  With the new "Movie Data" database, the team is now able to uncover low budget releases that they can use to predict are at a bargain price. 
