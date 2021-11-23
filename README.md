@@ -24,6 +24,7 @@
     - Python 3.7.7
 
 ## Project Results:
+![93714176-9c6dec00-fb26-11ea-976c-c7d21e2fee0b](https://user-images.githubusercontent.com/36451701/142959319-5cf1c12d-4f63-4816-88fe-eb7af2218513.png)
 
 ### Results: Write an ETL function to read three data files
 A function was created to take in Kaggle metadata, Wikipedia JSON, and MovieLens rating.csv. Each one was then set into their own seperate dataframe.
