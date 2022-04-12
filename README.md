@@ -45,7 +45,7 @@ Using ETL to clean data files, parse the data that we extracted to make it look 
 A function was created to take in Kaggle metadata, Wikipedia JSON, and MovieLens rating.csv. Each one was then set into their own seperate dataframe.
 
 ### Results: Extract and Transform the Wikipedia JSON data
-A merge was created with Wikipedia JSOO data and Kaggle metadata.  The merged dataframe was filtered out for tv shows while multiple columns were cleaned up do to lack of undesirable data. 
+A merge was created with Wikipedia JSON data and Kaggle metadata.  The merged dataframe was filtered out for tv shows while multiple columns were cleaned up do to lack of undesirable data. 
 
 ### Extract and Transform the Kaggle Data
 Transformed Kaggle metadata and MovieLens rating data, and then converted into seperate dataframes.  Kaggle, Wikipedia, and MoviesLens rating dataframes were then merged to create one dataframe with ratings for analysis.
