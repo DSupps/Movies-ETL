@@ -4,7 +4,15 @@
 ## Movies ETL Project Overview:
 This project will create an automated pipeline that takes in new data, from Wikipedia data, Kaggle metadata and the MovieLens rating data.
 
-### Project Challenge:
+### Project 
+
+
+
+
+
+
+
+allenge:
 Using ETL to clean data files, parse the data that we extracted to make it look how we want. Merge parsed data sets and load the merged sets into pgadmin for further use.
 
 *Create an automated pipeline that takes in new data from Wikipedia, Kaggle metadata, and MovieLens ratings.  The data is transformed into appropriate format and then loaded into a PostgreSQL database for further analysis.*
@@ -46,4 +54,4 @@ Transformed Kaggle metadata and MovieLens rating data, and then converted into s
 Added merged dataframes containig Kaggle and Wikipedia data with MoviesLens rating data to a SQL database where custom queries can be performed for analysis. 
 
 ## Project Summary:
-Amazon Prime Video Development Team can now perform the "Predict the Popular Pictures" Hackathon as requested.  With the new "Movie Data" database, the team is now able to uncover low budget releases that they can use to predict are at a bargain price. -
+Amazon Prime Video Development Team can now perform the "Predict the Popular Pictures" Hackathon as requested.  With the new "Movie Data" database, the team is now able to uncover low budget releases that they can use to predict are at a bargain price. 
