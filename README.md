@@ -55,3 +55,5 @@ Added merged dataframes containig Kaggle and Wikipedia data with MoviesLens rati
 
 ## Project Summary:
 Amazon Prime Video Development Team can now perform the "Predict the Popular Pictures" Hackathon as requested.  With the new "Movie Data" database, the team is now able to uncover low budget releases that they can use to predict are at a bargain price. 
+
+David Supple
